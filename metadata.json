@@ -1,0 +1,6 @@
+{
+  "name": "ForneceHub",
+  "description": "Hub inteligente de produtos, catálogo dropshipping e automação de vendas para Mercado Livre com IA integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
